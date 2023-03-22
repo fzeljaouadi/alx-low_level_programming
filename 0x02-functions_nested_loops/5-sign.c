@@ -1,4 +1,4 @@
-i# include "main.h"
+#include "main.h"
 /**
  * print_sign - print and if n is greater than zero
  * 0 if n is zero and - if n is less
@@ -26,4 +26,4 @@ int print_sign(int n)
 		_putchar(45);
 		return (-1);
 	}
-}
+i}
